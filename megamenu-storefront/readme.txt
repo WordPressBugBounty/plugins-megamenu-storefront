@@ -2,7 +2,7 @@
 Contributors: megamenu
 Tags: WooCommerce, Max Mega Menu, StoreFront
 Requires at least: 4.5
-Tested up to: 6.1
+Tested up to: 6.7
 Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
